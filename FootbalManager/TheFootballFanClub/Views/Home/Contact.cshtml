@@ -1,0 +1,65 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+
+
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-6">
+            <h2>Send us a message:</h2>
+            <div class="form-row">
+                <div class="col-md-6 mb-3">
+                    <label for="validationDefault01">First name</label>
+                    <input type="text" class="form-control" id="validationDefault01" value="Mark" required>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label for="validationDefault02">Last name</label>
+                    <input type="text" class="form-control" id="validationDefault02" value="Otto" required>
+                </div>
+
+
+
+                <div class="col-md-6 mb-3">
+                    <label for="validationDefault01">City</label>
+                    <input type="text" class="form-control" id="validationDefault01" value="City" required>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label for="validationDefault02">Email</label>
+                    <input type="text" class="form-control" id="validationDefault02" value="Email" required>
+                </div>
+            </div>
+
+
+            <form class="was-validated">
+                <div class="mb-3">
+                    <label for="validationTextarea">Textarea</label>
+                    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Required example textarea" required></textarea>
+                    <div class="invalid-feedback">
+                        Please enter a message in the textarea.
+                    </div>
+                </div>
+
+                <button class="btn btn-primary" type="submit">Submit form</button>
+            </form>
+
+        </div>
+
+        <div class="col-3"></div>
+        <div class="col-3" style="margin-top: 10%;">
+            <address style="font-weight:500">
+                Leicester College<br />
+                Postcode: LE15JA<br />
+                <abbr title="Phone">Phone:</abbr>
+                0115.252.232
+            </address>
+
+        </div>
+    </div>
+
+
+</div>
