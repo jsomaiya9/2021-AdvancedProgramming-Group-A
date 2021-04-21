@@ -1,0 +1,65 @@
+﻿@model IEnumerable<TheFootballFanClub.Models.FootballClubModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.League.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Wins)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Losses)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Draws)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Points)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.League.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Wins)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Losses)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Draws)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Points)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.FootballClubId }) |
+            @Html.ActionLink("Details", "Details", new { id = item.FootballClubId }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.FootballClubId }) |
+            @Html.ActionLink("Players", "Index", "Player", routeValues: new { id = item.FootballClubId }, htmlAttributes: new { id="Player"} )
+        </td>
+    </tr>
+}
+
+</table>
