@@ -30,13 +30,13 @@ namespace TheFootballFanClub.Models
             return new ApplicationDbContext();
         }
 
-        public System.Data.Entity.DbSet<FootbalManager.Models.UserModel> UserModels { get; set; }
+        public System.Data.Entity.DbSet<TheFootballFanClub.Models.UserModel> UserModels { get; set; }
 
-        public System.Data.Entity.DbSet<FootbalManager.Models.PlayerModel> PlayerModels { get; set; }
+        public System.Data.Entity.DbSet<TheFootballFanClub.Models.PlayerModel> PlayerModels { get; set; }
 
-        public System.Data.Entity.DbSet<FootbalManager.Models.FootballClubModel> FootballClubModels { get; set; }
+        public System.Data.Entity.DbSet<TheFootballFanClub.Models.FootballClubModel> FootballClubModels { get; set; }
 
-        public System.Data.Entity.DbSet<FootbalManager.Models.PersonalDetailsModel> PersonalDetailsModels { get; set; }
+        public System.Data.Entity.DbSet<TheFootballFanClub.Models.PersonalDetailsModel> PersonalDetailsModels { get; set; }
 
         public System.Data.Entity.DbSet<TheFootballFanClub.Models.LeagueTablesModel> LeagueTablesModels { get; set; }
     }

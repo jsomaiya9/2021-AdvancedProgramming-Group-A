@@ -46,7 +46,7 @@ namespace TheFootballFanClub.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "LeagueTable,City,Name,Rating")] LeagueTablesModel leagueTablesModel)
+        public ActionResult Create([Bind(Include = "LeagueId,Name")] LeagueTablesModel leagueTablesModel)
         {
             if (ModelState.IsValid)
             {
@@ -78,7 +78,7 @@ namespace TheFootballFanClub.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "LeagueTable,City,Name,Rating")] LeagueTablesModel leagueTablesModel)
+        public ActionResult Edit([Bind(Include = "LeagueId,Name")] LeagueTablesModel leagueTablesModel)
         {
             if (ModelState.IsValid)
             {

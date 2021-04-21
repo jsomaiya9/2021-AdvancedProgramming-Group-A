@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace FootbalManager.Models
+namespace TheFootballFanClub.Models
 {
     public class PlayerModel
     {
@@ -14,6 +14,5 @@ namespace FootbalManager.Models
         public virtual int FootballClubId { get; set; }
         public virtual string Name { get; set; }
         public virtual int Followers { get; set; }
-
     }
 }

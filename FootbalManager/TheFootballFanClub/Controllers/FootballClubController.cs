@@ -6,7 +6,6 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using FootbalManager.Models;
 using TheFootballFanClub.Models;
 
 namespace TheFootballFanClub.Controllers
@@ -18,7 +17,8 @@ namespace TheFootballFanClub.Controllers
         // GET: FootballClub
         public ActionResult Index()
         {
-            return View(db.FootballClubModels.ToList());
+            var footballClubModels = db.FootballClubModels.Include(f => f.League);
+            return View(footballClubModels.ToList());
         }
 
         // GET: FootballClub/Details/5
@@ -39,6 +39,7 @@ namespace TheFootballFanClub.Controllers
         // GET: FootballClub/Create
         public ActionResult Create()
         {
+            ViewBag.LeagueId = new SelectList(db.LeagueTablesModels, "LeagueId", "Name");
             return View();
         }
 
@@ -47,7 +48,7 @@ namespace TheFootballFanClub.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "FootballClubId,City,Name")] FootballClubModel footballClubModel)
+        public ActionResult Create([Bind(Include = "FootballClubId,LeagueId,Name,Wins,Losses,Draws,Points")] FootballClubModel footballClubModel)
         {
             if (ModelState.IsValid)
             {
@@ -56,6 +57,7 @@ namespace TheFootballFanClub.Controllers
                 return RedirectToAction("Index");
             }
 
+            ViewBag.LeagueId = new SelectList(db.LeagueTablesModels, "LeagueId", "Name", footballClubModel.LeagueId);
             return View(footballClubModel);
         }
 
@@ -71,6 +73,7 @@ namespace TheFootballFanClub.Controllers
             {
                 return HttpNotFound();
             }
+            ViewBag.LeagueId = new SelectList(db.LeagueTablesModels, "LeagueId", "Name", footballClubModel.LeagueId);
             return View(footballClubModel);
         }
 
@@ -79,7 +82,7 @@ namespace TheFootballFanClub.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "FootballClubId,City,Name")] FootballClubModel footballClubModel)
+        public ActionResult Edit([Bind(Include = "FootballClubId,LeagueId,Name,Wins,Losses,Draws,Points")] FootballClubModel footballClubModel)
         {
             if (ModelState.IsValid)
             {
@@ -87,6 +90,7 @@ namespace TheFootballFanClub.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
+            ViewBag.LeagueId = new SelectList(db.LeagueTablesModels, "LeagueId", "Name", footballClubModel.LeagueId);
             return View(footballClubModel);
         }
 

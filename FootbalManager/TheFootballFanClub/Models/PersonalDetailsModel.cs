@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace FootbalManager.Models
+namespace TheFootballFanClub.Models
 {
     public class PersonalDetailsModel
     {

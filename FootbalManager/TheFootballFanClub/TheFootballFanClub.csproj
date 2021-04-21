@@ -19,8 +19,7 @@
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
-    <IISExpressSSLPort>
-    </IISExpressSSLPort>
+    <IISExpressSSLPort>44378</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
@@ -186,6 +185,10 @@
     <Compile Include="Migrations\202104151058172_AddRatingToLeagueTablesModel.designer.cs">
       <DependentUpon>202104151058172_AddRatingToLeagueTablesModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202104210843381_AddWinsToFootballClubModel.cs" />
+    <Compile Include="Migrations\202104210843381_AddWinsToFootballClubModel.designer.cs">
+      <DependentUpon>202104210843381_AddWinsToFootballClubModel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\FootballClubModel.cs" />
@@ -208,9 +211,12 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\allianz-arena-5201825_640.jpg" />
     <Content Include="Images\alphabet-word-images-1295331_640.png" />
+    <Content Include="Images\bitcoin-2007769_640.jpg" />
     <Content Include="Images\football-1419954_1280.jpg" />
     <Content Include="Images\football-161132_640.png" />
+    <Content Include="Images\football-2350469_640.jpg" />
     <Content Include="Images\football-3024154_1280.jpg" />
     <Content Include="Images\football-3471402_1280.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -357,31 +363,16 @@
     <Content Include="Views\UserModels\Details.cshtml" />
     <Content Include="Views\UserModels\Edit.cshtml" />
     <Content Include="Views\UserModels\Index.cshtml" />
-    <Content Include="Views\PlayerModels\Create.cshtml" />
-    <Content Include="Views\PlayerModels\Delete.cshtml" />
-    <Content Include="Views\PlayerModels\Details.cshtml" />
-    <Content Include="Views\PlayerModels\Edit.cshtml" />
-    <Content Include="Views\PlayerModels\Index.cshtml" />
     <Content Include="Views\User\Create.cshtml" />
     <Content Include="Views\User\Delete.cshtml" />
     <Content Include="Views\User\Details.cshtml" />
     <Content Include="Views\User\Edit.cshtml" />
     <Content Include="Views\User\Index.cshtml" />
-    <Content Include="Views\Player\Create.cshtml" />
-    <Content Include="Views\Player\Delete.cshtml" />
-    <Content Include="Views\Player\Details.cshtml" />
-    <Content Include="Views\Player\Edit.cshtml" />
-    <Content Include="Views\Player\Index.cshtml" />
     <Content Include="Views\PersonalDetails\Create.cshtml" />
     <Content Include="Views\PersonalDetails\Delete.cshtml" />
     <Content Include="Views\PersonalDetails\Details.cshtml" />
     <Content Include="Views\PersonalDetails\Edit.cshtml" />
     <Content Include="Views\PersonalDetails\Index.cshtml" />
-    <Content Include="Views\FootballClub\Create.cshtml" />
-    <Content Include="Views\FootballClub\Delete.cshtml" />
-    <Content Include="Views\FootballClub\Details.cshtml" />
-    <Content Include="Views\FootballClub\Edit.cshtml" />
-    <Content Include="Views\FootballClub\Index.cshtml" />
     <Content Include="Scripts\umd\popper.min.js.map" />
     <Content Include="Scripts\umd\popper.js.map" />
     <Content Include="Scripts\umd\popper.js.flow" />
@@ -392,11 +383,21 @@
     <Content Include="Scripts\popper.js.map" />
     <Content Include="Scripts\popper-utils.min.js.map" />
     <Content Include="Scripts\popper-utils.js.map" />
+    <Content Include="Views\FootballClub\Create.cshtml" />
+    <Content Include="Views\FootballClub\Delete.cshtml" />
+    <Content Include="Views\FootballClub\Details.cshtml" />
+    <Content Include="Views\FootballClub\Edit.cshtml" />
+    <Content Include="Views\FootballClub\Index.cshtml" />
     <Content Include="Views\LeagueTables\Create.cshtml" />
     <Content Include="Views\LeagueTables\Delete.cshtml" />
     <Content Include="Views\LeagueTables\Details.cshtml" />
     <Content Include="Views\LeagueTables\Edit.cshtml" />
     <Content Include="Views\LeagueTables\Index.cshtml" />
+    <Content Include="Views\Player\Create.cshtml" />
+    <Content Include="Views\Player\Delete.cshtml" />
+    <Content Include="Views\Player\Details.cshtml" />
+    <Content Include="Views\Player\Edit.cshtml" />
+    <Content Include="Views\Player\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -419,6 +420,9 @@
     <EmbeddedResource Include="Migrations\202104151058172_AddRatingToLeagueTablesModel.resx">
       <DependentUpon>202104151058172_AddRatingToLeagueTablesModel.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104210843381_AddWinsToFootballClubModel.resx">
+      <DependentUpon>202104210843381_AddWinsToFootballClubModel.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
@@ -439,7 +443,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>50973</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:50973/</IISUrl>
+          <IISUrl>https://localhost:44378/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

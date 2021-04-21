@@ -192,7 +192,6 @@ E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.xml
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Host.SystemWeb.xml
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.xml
-E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Cookies.xml
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Facebook.xml
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Google.xml
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
@@ -207,7 +206,6 @@ E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Razor.xml
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Optimization.xml
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Antlr3.Runtime.pdb
-E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csprojAssemblyReference.cache
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.Migrations.InitialCreate.resources
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.GenerateResource.cache
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.CoreCompileInputs.cache
@@ -215,3 +213,4 @@ E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.dll
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.pdb
 E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.Migrations.AddRatingToLeagueTablesModel.resources
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.Migrations.AddWinsToFootballClubModel.resources

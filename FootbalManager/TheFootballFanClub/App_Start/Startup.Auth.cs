@@ -54,9 +54,9 @@ namespace TheFootballFanClub
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+            appId: "176853427591260", 
+            appSecret: "6590b3dde8a88f72a50a7dc40502dd28");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{

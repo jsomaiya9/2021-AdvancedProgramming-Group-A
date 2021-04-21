@@ -6,7 +6,6 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using FootbalManager.Models;
 using TheFootballFanClub.Models;
 
 namespace TheFootballFanClub.Controllers
@@ -16,22 +15,10 @@ namespace TheFootballFanClub.Controllers
         private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: Player
-        public ActionResult Index(int? id)
+        public ActionResult Index()
         {
-           
-            if (id == null)
-            {
-                var playerModels = db.PlayerModels.Include(p => p.FootballClub);
-                return View(playerModels.ToList());
-
-            }
-            PlayerModel playerModel = db.PlayerModels.Find(id);
-            if (playerModel == null)
-            {
-                return HttpNotFound();
-            }
-            ViewBag.FootballClubId = new SelectList(db.FootballClubModels, "FootballClubId", "City", playerModel.FootballClubId);
-            return View(db.PlayerModels.Where(PlayerModel=>PlayerModel.FootballClubId==id).ToList());
+            var playerModels = db.PlayerModels.Include(p => p.FootballClub);
+            return View(playerModels.ToList());
         }
 
         // GET: Player/Details/5
@@ -52,7 +39,7 @@ namespace TheFootballFanClub.Controllers
         // GET: Player/Create
         public ActionResult Create()
         {
-            ViewBag.FootballClubId = new SelectList(db.FootballClubModels, "FootballClubId", "City");
+            ViewBag.FootballClubId = new SelectList(db.FootballClubModels, "FootballClubId", "Name");
             return View();
         }
 
@@ -70,7 +57,7 @@ namespace TheFootballFanClub.Controllers
                 return RedirectToAction("Index");
             }
 
-            ViewBag.FootballClubId = new SelectList(db.FootballClubModels, "FootballClubId", "City", playerModel.FootballClubId);
+            ViewBag.FootballClubId = new SelectList(db.FootballClubModels, "FootballClubId", "Name", playerModel.FootballClubId);
             return View(playerModel);
         }
 
@@ -86,7 +73,7 @@ namespace TheFootballFanClub.Controllers
             {
                 return HttpNotFound();
             }
-            ViewBag.FootballClubId = new SelectList(db.FootballClubModels, "FootballClubId", "City", playerModel.FootballClubId);
+            ViewBag.FootballClubId = new SelectList(db.FootballClubModels, "FootballClubId", "Name", playerModel.FootballClubId);
             return View(playerModel);
         }
 
@@ -103,7 +90,7 @@ namespace TheFootballFanClub.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            ViewBag.FootballClubId = new SelectList(db.FootballClubModels, "FootballClubId", "City", playerModel.FootballClubId);
+            ViewBag.FootballClubId = new SelectList(db.FootballClubModels, "FootballClubId", "Name", playerModel.FootballClubId);
             return View(playerModel);
         }
 

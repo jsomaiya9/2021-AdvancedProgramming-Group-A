@@ -1,7 +1,8 @@
-﻿@model IEnumerable<FootbalManager.Models.PlayerModel>
+﻿@model IEnumerable<TheFootballFanClub.Models.PlayerModel>
 
 @{
     ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <h2>Index</h2>
@@ -12,7 +13,7 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.FootballClub.City)
+            @Html.DisplayNameFor(model => model.FootballClub.Name)
         </th>
         <th>
             @Html.DisplayNameFor(model => model.Name)
@@ -26,7 +27,7 @@
 @foreach (var item in Model) {
     <tr>
         <td>
-            @Html.DisplayFor(modelItem => item.FootballClub.City)
+            @Html.DisplayFor(modelItem => item.FootballClub.Name)
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.Name)

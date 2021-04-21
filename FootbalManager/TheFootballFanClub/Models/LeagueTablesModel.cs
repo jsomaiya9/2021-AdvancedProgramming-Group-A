@@ -10,11 +10,8 @@ namespace TheFootballFanClub.Models
     {
 
         [Key]
-        public virtual int LeagueTable { get; set; }
-        public virtual string City { get; set; }
-        public virtual string Name { get; set; }
-        public virtual int Rating { get; set; }
-
+        public virtual int LeagueId { get; set; } 
+        public virtual string Name { get; set; }       
     }
 
 }
