@@ -6,9 +6,10 @@ using System.Web;
 
 namespace TheFootballFanClub.Models
 {
-    public class DataInitialiser: DropCreateDatabaseAlways<ApplicationDbContext>
+    public class DataInitialiser : DropCreateDatabaseAlways<ApplicationDbContext>
     {
         protected override void Seed(ApplicationDbContext context)
         {
         }
+    }
 }
