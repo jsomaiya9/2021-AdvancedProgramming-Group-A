@@ -18,7 +18,7 @@ namespace TheFootballFanClub.Controllers
         public ActionResult Index()
         {
             var footballClubModels = db.FootballClubModels.Include(f => f.League);
-            return View(footballClubModels.ToList());
+            return View(footballClubModels.ToList().OrderByDescending(f=>f.Points));
         }
 
         // GET: FootballClub/Details/5

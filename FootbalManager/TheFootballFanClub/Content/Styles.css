@@ -1,0 +1,22 @@
+﻿body {
+}
+
+
+.log-nav{
+    color: #ffffff;
+}
+
+.log-nav:hover{
+    color: #ffffff;
+    text-decoration:none;
+}
+
+.log-nav-details {
+    color: #ffffff;
+    margin-left: 20px;
+}
+
+.log-nav-details:hover {
+    color: #ffffff;
+    text-decoration: none;
+}

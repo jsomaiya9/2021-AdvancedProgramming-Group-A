@@ -15,10 +15,18 @@ namespace TheFootballFanClub.Controllers
         private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: Player
-        public ActionResult Index()
+        public ActionResult Index(int? id)
         {
-            var playerModels = db.PlayerModels.Include(p => p.FootballClub);
-            return View(playerModels.ToList());
+            if (id == null)
+            {
+                var playerModels = db.PlayerModels.Include(p => p.FootballClub);
+                return View(playerModels.ToList());
+            }
+            else
+            {
+                return View(db.PlayerModels.Where(PlayerModel => PlayerModel.FootballClubId == id).ToList());
+            }
+           
         }
 
         // GET: Player/Details/5
