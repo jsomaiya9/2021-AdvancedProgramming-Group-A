@@ -1,0 +1,436 @@
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\TheFootballFanClub.dll.config
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\TheFootballFanClub.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\TheFootballFanClub.pdb
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\csc.exe
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\csc.exe.config
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\csc.rsp
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\csi.exe
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\csi.exe.config
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\csi.rsp
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.Managed.Core.targets
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.AppContext.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Collections.Immutable.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Console.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.Compression.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.FileSystem.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Reflection.Metadata.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.ValueTuple.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.XmlDocument.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.XPath.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\vbc.exe
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\vbc.exe.config
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\vbc.rsp
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\VBCSCompiler.exe
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\VBCSCompiler.exe.config
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Antlr3.Runtime.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\EntityFramework.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\EntityFramework.SqlServer.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Core.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Facebook.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Google.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.OAuth.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Twitter.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Web.Infrastructure.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Newtonsoft.Json.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Owin.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Helpers.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Mvc.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Optimization.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Razor.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Deployment.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Razor.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\WebGrease.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Helpers.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Mvc.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Optimization.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Razor.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Deployment.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Razor.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Newtonsoft.Json.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Antlr3.Runtime.pdb
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\EntityFramework.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\EntityFramework.SqlServer.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Core.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Facebook.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Cookies.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Google.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Twitter.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.OAuth.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csprojAssemblyReference.cache
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.CoreCompileInputs.cache
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.CopyComplete
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.pdb
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Globalization.Calendars.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Net.Http.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Net.Sockets.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\HND2\Advanced Programming\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\TheFootballFanClub.dll.config
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\TheFootballFanClub.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\TheFootballFanClub.pdb
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\csc.exe
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\csc.exe.config
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\csc.rsp
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\csi.exe
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\csi.exe.config
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\csi.rsp
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.Managed.Core.targets
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.AppContext.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Collections.Immutable.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Console.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Globalization.Calendars.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.Compression.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.FileSystem.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Net.Http.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Net.Sockets.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Reflection.Metadata.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.ValueTuple.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.XmlDocument.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.XPath.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\vbc.exe
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\vbc.exe.config
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\vbc.rsp
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\VBCSCompiler.exe
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\roslyn\VBCSCompiler.exe.config
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Antlr3.Runtime.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\EntityFramework.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\EntityFramework.SqlServer.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Core.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Facebook.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Google.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.OAuth.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Twitter.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Web.Infrastructure.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Newtonsoft.Json.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Owin.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Helpers.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Mvc.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Optimization.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Razor.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Deployment.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Razor.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\WebGrease.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\EntityFramework.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\EntityFramework.SqlServer.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Core.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Facebook.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Google.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.OAuth.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Twitter.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Newtonsoft.Json.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Helpers.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Mvc.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Razor.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Deployment.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Razor.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\System.Web.Optimization.xml
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\bin\Antlr3.Runtime.pdb
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.Migrations.InitialCreate.resources
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.GenerateResource.cache
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.CoreCompileInputs.cache
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.CopyComplete
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.dll
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.pdb
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.Migrations.AddRatingToLeagueTablesModel.resources
+E:\HND2\Advanced Programming\backup-15.04\FCM2\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.Migrations.AddWinsToFootballClubModel.resources
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.pdb
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csprojAssemblyReference.cache
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.Migrations.InitialCreate.resources
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.Migrations.AddRatingToLeagueTablesModel.resources
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.Migrations.AddWinsToFootballClubModel.resources
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.GenerateResource.cache
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.CoreCompileInputs.cache
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\TheFootballFanClub.dll.config
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\TheFootballFanClub.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\TheFootballFanClub.pdb
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\csc.exe
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\csc.exe.config
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\csc.rsp
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\csi.exe
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\csi.exe.config
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\csi.rsp
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CSharp.Core.targets
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.Managed.Core.targets
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.AppContext.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Collections.Immutable.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Console.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Globalization.Calendars.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.Compression.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.FileSystem.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Net.Http.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Net.Sockets.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Reflection.Metadata.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.ValueTuple.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.ReaderWriter.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.XmlDocument.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.XPath.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\vbc.exe
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\vbc.exe.config
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\vbc.rsp
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\VBCSCompiler.exe
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\roslyn\VBCSCompiler.exe.config
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Antlr3.Runtime.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\EntityFramework.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\EntityFramework.SqlServer.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Core.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Owin.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Facebook.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Google.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.OAuth.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Twitter.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Web.Infrastructure.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Newtonsoft.Json.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Owin.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.Helpers.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.Mvc.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.Optimization.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.Razor.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Deployment.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Razor.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\WebGrease.dll
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\EntityFramework.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\EntityFramework.SqlServer.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Core.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Owin.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Facebook.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Google.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.OAuth.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Twitter.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Newtonsoft.Json.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.Helpers.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.Mvc.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.Razor.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Deployment.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Razor.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\System.Web.Optimization.xml
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\bin\Antlr3.Runtime.pdb
+\\mac\Home\Desktop\GitHub\FM Project\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.CopyComplete
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\TheFootballFanClub.dll.config
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\TheFootballFanClub.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\TheFootballFanClub.pdb
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\csc.exe
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\csc.exe.config
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\csc.rsp
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\csi.exe
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\csi.exe.config
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\csi.rsp
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.AppContext.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Console.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.Compression.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Net.Http.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.ValueTuple.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\vbc.exe
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\vbc.exe.config
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\vbc.rsp
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\VBCSCompiler.exe
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Antlr3.Runtime.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\EntityFramework.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\EntityFramework.SqlServer.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Newtonsoft.Json.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Owin.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.Helpers.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.Mvc.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.Optimization.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.Razor.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Razor.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\WebGrease.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\EntityFramework.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\EntityFramework.SqlServer.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Newtonsoft.Json.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.Helpers.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.Mvc.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.Razor.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.WebPages.Razor.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\System.Web.Optimization.xml
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\bin\Antlr3.Runtime.pdb
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csprojAssemblyReference.cache
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.Migrations.InitialCreate.resources
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.Migrations.AddRatingToLeagueTablesModel.resources
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.Migrations.AddWinsToFootballClubModel.resources
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.GenerateResource.cache
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.csproj.CopyComplete
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.dll
+C:\Users\mariu\OneDrive\Desktop\F\FootbalManager\TheFootballFanClub\obj\Debug\TheFootballFanClub.pdb
