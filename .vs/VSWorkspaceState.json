@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FootbalManager",
+    "\\FootbalManager\\FootbalManager",
+    "\\FootbalManager\\TheFanClub",
+    "\\FootbalManager\\TheFootballFanClub"
   ],
   "PreviewInSolutionExplorer": false
 }
